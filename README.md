@@ -10,3 +10,8 @@ A free version of the book can be found at [https://inventwithpython.com/bigbook
 
 Made a version for hexadecimal numbers.
 
+## 02. Birthday Paradox
+
+
+
+
